@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noEmitOnError": true,
+    "strictNullChecks": true,
+    "experimentalDecorators": true,
+    "target": "ESNext",
+    "moduleResolution": "node"
+  },
+  "include": ["src"]
+}
